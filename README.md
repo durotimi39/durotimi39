@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @durotimi39
+- 👀 I’m interested in ... Backend Development
+- 🌱 I’m currently learning ... Python
+- 📫 How to reach me ... olurindefak11@gmail.com
